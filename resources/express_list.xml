@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<companies>
+    <!-- A  -->
+    <company code="annengwuliu">安能物流</company>
+    <company code="anxl">安迅物流</company>
+
+    <!-- 常用快递  -->
+    <company code="yuantong">圆通快递</company>
+    <company code="shentong">申通快递</company>
+    <company code="shunfeng">顺丰快递</company>
+    <company code="yunda">韵达快递</company>
+    <company code="debangwuliu">德邦物流</company>
+    <company code="zhongtong">中通快递</company>
+    <company code="huitongkuaidi">百世汇通</company>
+    <company code="youzhengguonei">邮政包裹</company>
+    <company code="ems">EMS</company>
+
+    <!-- C  -->
+    <company code="coe">COE（东方快递）</company>
+    <company code="city100">城市100</company>
+    <company code="chuanxiwuliu">传喜物流</company>
+    <company code="chengjisudi">城际速递</company>
+    <company code="lijisong">成都立即送</company>
+    <company code="chukou1">出口易</company>
+
+    <!-- B  -->
+    <company code="youzhengguonei">包裹/平邮/挂号信</company>
+    <company code="balunzhi">巴伦支快递</company>
+    <company code="xiaohongmao">北青小红帽</company>
+    <company code="huitongkuaidi">百世汇通</company>
+    <company code="baifudongfang">百福东方物流</company>
+    <company code="bangsongwuliu">邦送物流</company>
+    <company code="lbbk">宝凯物流</company>
+    <company code="bqcwl">百千诚物流</company>
+    <company code="byht">博源恒通</company>
+
+    <!-- D  -->
+    <company code="dhl">DHL快递（中国件）</company>
+    <company code="dhlen">DHL（国际件）</company>
+    <company code="dhlde">DHL（德国件）</company>
+    <company code="debangwuliu">德邦</company>
+    <company code="datianwuliu">大田物流</company>
+    <company code="coe">东方快递</company>
+    <company code="disifang">递四方</company>
+    <company code="dayangwuliu">大洋物流</company>
+    <company code="diantongkuaidi">店通快递</company>
+    <company code="dechuangwuliu">德创物流</company>
+    <company code="donghong">东红物流</company>
+    <company code="dsukuaidi">D速物流</company>
+    <company code="donghanwl">东瀚物流</company>
+    <company code="dfpost">达方物流</company>
+
+    <!-- E  -->
+    <company code="ems">EMS快递查询</company>
+    <company code="emsguoji">EMS国际快递查询</company>
+
+    <!-- F  -->
+    <company code="fedex">FedEx快递查询</company>
+    <company code="fedex">FedEx国际件</company>
+    <company code="fedexus">FedEx（美国）</company>
+    <company code="rufengda">凡客如风达</company>
+    <company code="feikangda">飞康达物流</company>
+    <company code="feibaokuaidi">飞豹快递</company>
+    <company code="feihukuaidi">飞狐快递</company>
+    <company code="fanyukuaidi">凡宇速递</company>
+    <company code="fandaguoji">颿达国际</company>
+    <company code="feiyuanvipshop">飞远配送</company>
+
+    <!-- G  -->
+    <company code="guotongkuaidi">国通快递</company>
+    <company code="youzhengguoji">国际邮件查询</company>
+    <company code="ganzhongnengda">港中能达物流</company>
+    <company code="youzhengguonei">挂号信/国内邮件</company>
+    <company code="gongsuda">共速达</company>
+    <company code="gtongsudi">广通速递</company>
+    <company code="gdkd">港快速递</company>
+    <company code="gaticn">GATI快递</company>
+    <company code="hre">高铁速递</company>
+    <company code="gda">冠达快递</company>
+
+    <!-- H  -->
+    <company code="tiandihuayu">华宇物流</company>
+    <company code="hengluwuliu">恒路物流</company>
+    <company code="hlyex">好来运快递</company>
+    <company code="huaxialongwuliu">华夏龙物流</company>
+    <company code="tiantian">海航天天</company>
+    <company code="hebeijianhua">河北建华</company>
+    <company code="haimengsudi">海盟速递</company>
+    <company code="huaqikuaiyun">华企快运</company>
+    <company code="haoshengwuliu">昊盛物流</company>
+    <company code="hutongwuliu">户通物流</company>
+    <company code="hzpl">华航快递</company>
+    <company code="huangmajia">黄马甲快递</company>
+    <company code="ucs">合众速递（UCS）</company>
+    <company code="pfcexpress">皇家物流</company>
+    <company code="huoban">伙伴物流</company>
+
+    <!-- J  -->
+    <company code="jiajiwuliu">佳吉物流</company>
+    <company code="jiayiwuliu">佳怡物流</company>
+    <company code="jiayunmeiwuliu">加运美快递</company>
+    <company code="jixianda">急先达物流</company>
+    <company code="jinguangsudikuaijian">京广速递快件</company>
+    <company code="jinyuekuaidi">晋越快递</company>
+    <company code="jd">京东快递</company>
+    <company code="jietekuaidi">捷特快递</company>
+    <company code="jiuyicn">久易快递</company>
+
+    <!-- K  -->
+    <company code="kuaijiesudi">快捷快递</company>
+    <company code="kangliwuliu">康力物流</company>
+    <company code="kuayue">跨越物流</company>
+    <company code="kuaiyouda">快优达速递</company>
+    <company code="kuaitao">快淘快递</company>
+
+    <!-- L  -->
+    <company code="lianbangkuaidi">联邦快递（国内）</company>
+    <company code="lianhaowuliu">联昊通物流</company>
+    <company code="longbanwuliu">龙邦速递</company>
+    <company code="lejiedi">乐捷递</company>
+    <company code="lijisong">立即送</company>
+    <company code="lanhukuaidi">蓝弧快递</company>
+
+    <!-- M  -->
+    <company code="minghangkuaidi">民航快递</company>
+    <company code="meiguokuaidi">美国快递</company>
+    <company code="menduimen">门对门</company>
+    <company code="mingliangwuliu">明亮物流</company>
+    <company code="minbangsudi">民邦速递</company>
+    <company code="minshengkuaidi">闽盛快递</company>
+
+    <!-- N  -->
+    <company code="ganzhongnengda">能达速递</company>
+    <company code="nuoyaao">偌亚奥国际</company>
+    <company code="nanjingshengbang">南京晟邦物流</company>
+
+    <!-- Q  -->
+    <company code="quanfengkuaidi">全峰快递</company>
+    <company code="quanyikuaidi">全一快递</company>
+    <company code="quanritongkuaidi">全日通快递</company>
+    <company code="quanchenkuaidi">全晨快递</company>
+    <company code="sevendays">7天连锁物流</company>
+
+    <!-- P  -->
+    <company code="pingandatengfei">平安达腾飞</company>
+    <company code="peixingwuliu">陪行物流</company>
+
+    <!-- R  -->
+    <company code="rufengda">如风达快递</company>
+    <company code="riyuwuliu">日昱物流</company>
+
+    <!-- U  -->
+    <company code="ups">UPS快递查询</company>
+    <company code="ups">UPS国际快递</company>
+    <company code="youshuwuliu">UC优速快递</company>
+    <company code="usps">USPS美国邮政</company>
+
+    <!-- S  -->
+    <company code="shentong">申通快递</company>
+    <company code="shunfeng">顺丰速运</company>
+    <company code="suer">速尔快递</company>
+    <company code="haihongwangsong">山东海红</company>
+    <company code="shenghuiwuliu">盛辉物流</company>
+    <company code="shiyunkuaidi">世运快递</company>
+    <company code="shengfengwuliu">盛丰物流</company>
+    <company code="shangda">上大物流</company>
+    <company code="santaisudi">三态速递</company>
+    <company code="saiaodi">赛澳递</company>
+    <company code="shentong">申通E物流</company>
+    <company code="shenganwuliu">圣安物流</company>
+    <company code="sxhongmajia">山西红马甲</company>
+    <company code="suijiawuliu">穗佳物流</company>
+    <company code="syjiahuier">沈阳佳惠尔</company>
+    <company code="shlindao">上海林道货运</company>
+
+    <!-- W  -->
+    <company code="wanxiangwuliu">万象物流</company>
+    <company code="weitepai">微特派</company>
+    <company code="wanjiawuliu">万家物流</company>
+
+    <!-- X  -->
+    <company code="xiyoutekuaidi">希优特快递</company>
+    <company code="xinbangwuliu">新邦物流</company>
+    <company code="xinfengwuliu">信丰物流</company>
+    <company code="neweggozzo">新蛋物流</company>
+    <company code="xianglongyuntong">祥龙运通物流</company>
+    <company code="xianchengliansudi">西安城联速递</company>
+    <company code="xilaikd">西安喜来快递</company>
+
+    <!-- T  -->
+    <company code="tnt">TNT快递</company>
+    <company code="tiantian">天天快递</company>
+    <company code="tiandihuayu">天地华宇</company>
+    <company code="tonghetianxia">通和天下</company>
+    <company code="tianzong">天纵物流</company>
+
+    <!-- Y  -->
+    <company code="yuantong">圆通速递</company>
+    <company code="yunda">韵达快运</company>
+    <company code="yuntongkuaidi">运通快递</company>
+    <company code="youzhengguonei">邮政国内</company>
+    <company code="youzhengguoji">邮政国际</company>
+    <company code="yuanchengwuliu">远成物流</company>
+    <company code="yafengsudi">亚风速递</company>
+    <company code="youshuwuliu">优速快递</company>
+    <company code="yishunhang">亿顺航</company>
+    <company code="yuefengwuliu">越丰物流</company>
+    <company code="yuananda">源安达快递</company>
+    <company code="yuanfeihangwuliu">原飞航物流</company>
+    <company code="ems">邮政EMS速递</company>
+    <company code="yinjiesudi">银捷速递</company>
+    <company code="yitongfeihong">一统飞鸿</company>
+    <company code="yuxinwuliu">宇鑫物流</company>
+    <company code="yitongda">易通达</company>
+    <company code="youbijia">邮必佳</company>
+    <company code="yiqiguojiwuliu">一柒物流</company>
+    <company code="yinsu">音素快运</company>
+    <company code="yilingsuyun">亿领速运</company>
+    <company code="yujiawuliu">煜嘉物流</company>
+    <company code="gml">英脉物流</company>
+    <company code="leopard">云豹国际货运</company>
+
+    <!-- Z  -->
+    <company code="zhongtong">中通快递</company>
+    <company code="zhaijisong">宅急送</company>
+    <company code="zhongtiewuliu">中铁快运</company>
+    <company code="ztky">中铁物流</company>
+    <company code="zhongyouwuliu">中邮物流</company>
+    <company code="coe">中国东方(COE)</company>
+    <company code="zhimakaimen">芝麻开门</company>
+    <company code="youzhengguonei">中国邮政快递</company>
+    <company code="zhengzhoujianhua">郑州建华</company>
+    <company code="zhongsukuaidi">中速快件</company>
+    <company code="zhongtianwanyun">中天万运</company>
+    <company code="zhongruisudi">中睿速递</company>
+    <company code="zhongwaiyun">中外运速递</company>
+    <company code="zengyisudi">增益速递</company>
+</companies>
