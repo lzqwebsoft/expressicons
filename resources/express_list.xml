@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <companies>
-    <!-- A  -->
-    <company code="annengwuliu">安能物流</company>
-    <company code="anxl">安迅物流</company>
-
     <!-- 常用快递  -->
     <company code="yuantong">圆通快递</company>
     <company code="shentong">申通快递</company>
@@ -15,13 +11,9 @@
     <company code="youzhengguonei">邮政包裹</company>
     <company code="ems">EMS</company>
 
-    <!-- C  -->
-    <company code="coe">COE（东方快递）</company>
-    <company code="city100">城市100</company>
-    <company code="chuanxiwuliu">传喜物流</company>
-    <company code="chengjisudi">城际速递</company>
-    <company code="lijisong">成都立即送</company>
-    <company code="chukou1">出口易</company>
+    <!-- A  -->
+    <company code="annengwuliu">安能物流</company>
+    <company code="anxl">安迅物流</company>
 
     <!-- B  -->
     <company code="youzhengguonei">包裹/平邮/挂号信</company>
@@ -33,6 +25,14 @@
     <company code="lbbk">宝凯物流</company>
     <company code="bqcwl">百千诚物流</company>
     <company code="byht">博源恒通</company>
+
+    <!-- C  -->
+    <company code="coe">COE（东方快递）</company>
+    <company code="city100">城市100</company>
+    <company code="chuanxiwuliu">传喜物流</company>
+    <company code="chengjisudi">城际速递</company>
+    <company code="lijisong">成都立即送</company>
+    <company code="chukou1">出口易</company>
 
     <!-- D  -->
     <company code="dhl">DHL快递（中国件）</company>
@@ -134,6 +134,10 @@
     <company code="nuoyaao">偌亚奥国际</company>
     <company code="nanjingshengbang">南京晟邦物流</company>
 
+    <!-- P  -->
+    <company code="pingandatengfei">平安达腾飞</company>
+    <company code="peixingwuliu">陪行物流</company>
+
     <!-- Q  -->
     <company code="quanfengkuaidi">全峰快递</company>
     <company code="quanyikuaidi">全一快递</company>
@@ -141,19 +145,9 @@
     <company code="quanchenkuaidi">全晨快递</company>
     <company code="sevendays">7天连锁物流</company>
 
-    <!-- P  -->
-    <company code="pingandatengfei">平安达腾飞</company>
-    <company code="peixingwuliu">陪行物流</company>
-
     <!-- R  -->
     <company code="rufengda">如风达快递</company>
     <company code="riyuwuliu">日昱物流</company>
-
-    <!-- U  -->
-    <company code="ups">UPS快递查询</company>
-    <company code="ups">UPS国际快递</company>
-    <company code="youshuwuliu">UC优速快递</company>
-    <company code="usps">USPS美国邮政</company>
 
     <!-- S  -->
     <company code="shentong">申通快递</company>
@@ -173,6 +167,19 @@
     <company code="syjiahuier">沈阳佳惠尔</company>
     <company code="shlindao">上海林道货运</company>
 
+    <!-- T  -->
+    <company code="tnt">TNT快递</company>
+    <company code="tiantian">天天快递</company>
+    <company code="tiandihuayu">天地华宇</company>
+    <company code="tonghetianxia">通和天下</company>
+    <company code="tianzong">天纵物流</company>
+
+    <!-- U  -->
+    <company code="ups">UPS快递查询</company>
+    <company code="ups">UPS国际快递</company>
+    <company code="youshuwuliu">UC优速快递</company>
+    <company code="usps">USPS美国邮政</company>
+
     <!-- W  -->
     <company code="wanxiangwuliu">万象物流</company>
     <company code="weitepai">微特派</company>
@@ -186,13 +193,6 @@
     <company code="xianglongyuntong">祥龙运通物流</company>
     <company code="xianchengliansudi">西安城联速递</company>
     <company code="xilaikd">西安喜来快递</company>
-
-    <!-- T  -->
-    <company code="tnt">TNT快递</company>
-    <company code="tiantian">天天快递</company>
-    <company code="tiandihuayu">天地华宇</company>
-    <company code="tonghetianxia">通和天下</company>
-    <company code="tianzong">天纵物流</company>
 
     <!-- Y  -->
     <company code="yuantong">圆通速递</company>
