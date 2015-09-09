@@ -12,11 +12,9 @@ from scrapy.contrib.pipeline.files import FilesPipeline
 from scrapy.exceptions import DropItem
 
 class ExpressiconsImagePipeline(FilesPipeline):
-    idx = 0
 
     def get_media_requests(self, item, info):
-        for idx,company in enumerate(item['companies']):
-            self.idx = idx
+        for company in item['companies']:
             yield scrapy.Request(company['image'])
 
     def item_completed(self, results, item, info):
